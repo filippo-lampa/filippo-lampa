@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![@filippolampa's Holopin board](https://holopin.me/filippolampa)](https://holopin.io/@filippolampa)
+
 <!--
 **filippo-lampa/filippo-lampa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
